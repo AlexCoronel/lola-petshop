@@ -1,7 +1,4 @@
-
-/* ------------------------------
-   ESTILOS GENERALES
---------------------------------*/
+/* -ESTILOS GENERALES- */
 
 * {
     margin: 0;
@@ -47,9 +44,7 @@ img {
 }
 
 
-/* ------------------------------
-   ENCABEZADO Y NAVEGACIÓN
---------------------------------*/
+/*-ENCABEZADO Y NAVEGACIÓN-*/
 
 header {
     background-color: white;
@@ -97,9 +92,7 @@ header {
 }
 
 
-/* ------------------------------
-   BOTONES
---------------------------------*/
+/*-BOTONES-*/
 
 .boton {
     display: inline-block;
@@ -152,9 +145,7 @@ header {
 }
 
 
-/* ------------------------------
-   BANNER PRINCIPAL
---------------------------------*/
+/*-BANNER PRINCIPAL-*/
 
 .banner {
     background-color: #d8f1ed;
@@ -207,9 +198,7 @@ header {
 }
 
 
-/* ------------------------------
-   SECCIONES Y TÍTULOS
---------------------------------*/
+/*-SECCIONES Y TÍTULOS-*/
 
 .seccion {
     padding-top: 75px;
@@ -244,9 +233,8 @@ header {
 }
 
 
-/* ------------------------------
-   CATEGORÍAS
---------------------------------*/
+/*-CATEGORÍAS-*/
+   
 
 .categorias {
     display: grid;
@@ -295,9 +283,7 @@ header {
 }
 
 
-/* ------------------------------
-   PRODUCTOS
---------------------------------*/
+/*-PRODUCTOS-*/
 
 .destacados {
     background-color: #f8f7f4;
@@ -354,9 +340,7 @@ header {
 
 
 
-/* ------------------------------
-   ENCABEZADOS DE PÁGINAS
---------------------------------*/
+/*-ENCABEZADOS DE PÁGINAS-*/
 
 .encabezado-pagina {
     background-color: #d8f1ed;
@@ -374,9 +358,7 @@ header {
 }
 
 
-/* ------------------------------
-   TABLA DE TALLES
---------------------------------*/
+/*-TABLA DE TALLES-*/
 
 .tabla-contenedor {
     overflow-x: auto;
@@ -411,9 +393,7 @@ tbody tr:hover {
 }
 
 
-/* ------------------------------
-   CONTACTO Y FORMULARIO
---------------------------------*/
+/*-CONTACTO Y FORMULARIO-*/
 
 .contacto-contenido {
     display: grid;
@@ -494,9 +474,7 @@ tbody tr:hover {
 }
 
 
-/* ------------------------------
-   PIE DE PÁGINA
---------------------------------*/
+/*-PIE DE PÁGINA-*/
 
 footer {
     background-color: var(--oscuro);
@@ -549,9 +527,7 @@ footer {
 }
 
 
-/* ------------------------------
-   DISEÑO RESPONSIVE
---------------------------------*/
+/*-DISEÑO RESPONSIVE-*/
 
 @media (max-width: 900px) {
 
@@ -661,19 +637,6 @@ footer {
     .producto img {
         height: 250px;
     }
-
-    .promocion {
-        flex-direction: column;
-        text-align: center;
-        padding: 30px 20px;
-        margin-top: 40px;
-        margin-bottom: 40px;
-    }
-
-    .promocion h2 {
-        font-size: 25px;
-    }
-
     .encabezado-pagina {
         padding: 45px 0;
     }
