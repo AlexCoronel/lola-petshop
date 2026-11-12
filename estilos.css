@@ -599,9 +599,9 @@ footer {
     }
 
     .banner-imagen img {
-        height: 260px;
+        height: auto;
         width: auto;
-        max height: 260px;
+        max height: 200px;
         object-fit: cover;
     }
 
