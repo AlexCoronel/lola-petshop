@@ -600,7 +600,8 @@ footer {
 
     .banner-imagen img {
         height: 260px;
-        Width: auto;
+        width: auto;
+        max height: 260px;
         object-fit: cover;
     }
 
@@ -635,7 +636,8 @@ footer {
     }
 
     .producto img {
-        height: 250px;
+        height: auto;   
+        objet-fit: contain;
     }
     .encabezado-pagina {
         padding: 45px 0;
