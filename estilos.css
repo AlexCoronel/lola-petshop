@@ -615,7 +615,7 @@ footer {
     }
 
     .categorias {
-        grid-template-columns:auto
+        grid-template-columns: auto;
         gap: 15px;
     }
 
