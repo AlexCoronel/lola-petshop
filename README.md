@@ -26,3 +26,5 @@ Instrucciones para visualizar el proyecto
 2. Abrir la carpeta del proyecto
 3. Ejecutar el archivo index.html en un navegador web
 4. Utilizar el menú de navegación para ir entre las distintas secciones
+
+Link a la web: https://alexcoronel.github.io/lola-petshop/
