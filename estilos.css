@@ -543,6 +543,12 @@ footer {
         gap: 25px;
     }
 
+    .banner-imagen img {
+        height: auto;
+        max-height: 300px;
+        object-fit: cover;
+    }
+
     .productos-grid {
         grid-template-columns: repeat(2, 1fr);
     }
