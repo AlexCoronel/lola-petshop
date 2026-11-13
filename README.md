@@ -1,6 +1,7 @@
 LOLA Pet Shop
 
 Descripción del proyecto
+
 LOLA Pet Shop es un sitio web dedicado a la venta de productos para mascotas. 
 Buscamos una forma de navegación sencia y visualmente atractiva donde los usuarios puedan conocer 
 los productos disponibles, separados por categorías y realizar consultas. Usamos un diseño moderno 
