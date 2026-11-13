@@ -601,7 +601,7 @@ footer {
     .banner-imagen img {
         height: auto;
         width: auto;
-        max height: 200px;
+        max-height: 200px;
         object-fit: cover;
     }
 
