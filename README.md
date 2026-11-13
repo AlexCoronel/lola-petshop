@@ -19,8 +19,8 @@ Se usaron selectores, clases e identificadores para organizar los estilos y herr
 los distintos elementos según el ancho de la pantalla. 
 
 Integrantes: 
-Coronel Alexis - Maquetación web
-Rosales Yesica - Diseño web
+- Coronel Alexis - Maquetación web
+- Rosales Yesica - Diseño web
 
 Instrucciones para visualizar el proyecto
 1. Descargar el repositorio
