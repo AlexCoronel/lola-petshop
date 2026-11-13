@@ -615,8 +615,8 @@ footer {
     }
 
     .categorias {
-        grid-template-columns: 1fr;
-        gap: 15px;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
     }
 
     .categoria {
@@ -637,7 +637,7 @@ footer {
 
     .producto img {
         height: auto;   
-        objet-fit: contain;
+        object-fit: contain;
     }
     .encabezado-pagina {
         padding: 45px 0;
