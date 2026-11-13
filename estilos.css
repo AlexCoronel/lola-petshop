@@ -559,8 +559,8 @@ footer {
     .encabezado {
         flex-wrap: wrap;
         justify-content: center;
-        padding: 15px 0;
-        gap: 12px;
+        padding: 8px 0;
+        gap: 5px;
     }
 
     .logo {
